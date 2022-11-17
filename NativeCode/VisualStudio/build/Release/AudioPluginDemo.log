@@ -1,0 +1,4 @@
+﻿cl : command line warning D9002: ignoring unknown option '/arch:SSE2'
+  AudioPluginUtil.cpp
+  Plugin_Csound.cpp
+D:\sourcecode\CsoundUnityNative\NativeCode\Plugin_Csound.cpp(14,10): fatal error C1083: Cannot open include file: 'csound.hpp': No such file or directory
