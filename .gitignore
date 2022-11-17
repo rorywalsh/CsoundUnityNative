@@ -1,2 +1,3 @@
 NativeCode\VisualStudio\build
 *.meta
+NativeCode/VisualStudio/.vs
