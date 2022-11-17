@@ -1,6 +1,6 @@
 ### CsoundUnityNative
 
-CsoundUnityNative wraps Csound in a native Unity audio plugin. It is intended to be used within Cabbage, but instructions are given below for its use outside of the cabbage export function.
+CsoundUnityNative wraps Csound in a native Unity audio plugin. It is intended to be used within [Cabbage](https://github.com/rorywalsh/cabbage), but instructions are given below for its use outside of the cabbage export function.
 
 ### Using CsoundUnityNative without Cabbage.
 
